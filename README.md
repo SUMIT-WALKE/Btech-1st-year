@@ -7,10 +7,14 @@ My C programming practice as a B.Tech CSE 1st year student.
 - C/addition.c: adds two numbers
 
 ## How to run
+```
 gcc C/hello_world.c -o hello
 ./hello
+```
 
 ## About me
 Sumit Walke
+
 B.Tech CSE 1st year, Wainganga College of Engineering and Management
+
 Learning C step by step.
